@@ -1,7 +1,7 @@
 ﻿<!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
-    <title></title>
+    <title>Azure Insights</title>
     <!--
 To collect end-user usage analytics about your application,
 insert the following script into each page you want to track.
@@ -24,7 +24,7 @@ automatically in just a few seconds.
     <div style="position: absolute; left: 100px; font-size: xx-large;">Homepage to test monitoring</div>
     <br />
     <br />
-    <div> needed to be configured
+    <div> needed to be configured..
         <div>
             <img src="images/pic4.png" />
         </div>
